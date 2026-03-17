@@ -1,0 +1,10 @@
+project_id = "qkhsruhjojytvkrzknna"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.detect-food]
+verify_jwt = false
+
+[functions.generate-meal-plan]
+verify_jwt = false
