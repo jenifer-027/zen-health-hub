@@ -1,4 +1,5 @@
-- [ ] Fix login/signup feedback and add email password recovery.
+- [ ] Check the reported login issue directly and fix verified causes.
+- [ ] Fix signup/login feedback and add email password recovery.
 - [ ] Add contextual AI meal suggestions without repetitive disease mentions.
 - [ ] Add progress report exports and grocery list sharing.
 - [ ] Verify changed flows and report any backend-dependent checks that remain blocked.
